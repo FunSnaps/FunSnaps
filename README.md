@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FunSnaps
+- 👋 Hi, I’m Marcus
 - 👀 I’m interested in creating a lot of bugs and squashing them
 - 🌱 I’m currently learning Blazor & Webassembly and effective C++
 - 💞️ I’m looking to collaborate on anything ASP.NET core related
