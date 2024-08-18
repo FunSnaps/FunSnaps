@@ -6,7 +6,3 @@
 [![roadmap.sh](https://roadmap.sh/card/tall/669062bd7fc121949a135443?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend)](https://roadmap.sh)
 [![roadmap.sh](https://roadmap.sh/card/tall/669062bd7fc121949a135443?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 [![roadmap.sh](https://roadmap.sh/card/tall/669062bd7fc121949a135443?variant=dark&roadmaps=backend)](https://roadmap.sh)
-<!---
-FunSnaps/FunSnaps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
