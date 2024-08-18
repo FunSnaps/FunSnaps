@@ -4,6 +4,4 @@
 - 💞️ I’m looking to collaborate on anything ASP.NET core related
 - 📫 How to reach me: conti.marcus6@gmail.com
 - 
-[![roadmap.sh](https://roadmap.sh/card/tall/669062bd7fc121949a135443?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend)](https://roadmap.sh)
-[![roadmap.sh](https://roadmap.sh/card/tall/669062bd7fc121949a135443?variant=dark&roadmaps=frontend)](https://roadmap.sh)
-[![roadmap.sh](https://roadmap.sh/card/tall/669062bd7fc121949a135443?variant=dark&roadmaps=backend)](https://roadmap.sh)
+https://roadmap.sh/card/tall/669062bd7fc121949a135443?variant=dark&roadmaps=full-stack%2Cfrontend%2Cbackend
